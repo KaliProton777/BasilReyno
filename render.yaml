@@ -1,0 +1,5 @@
+version: 1
+build:
+  commands:
+    - pnpm install
+    - pnpm run typecheck && pnpm -r --if-present run build
