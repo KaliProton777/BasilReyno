@@ -1,0 +1,703 @@
+Create a premium, fully responsive personal brand landing page website for BASIL REYNO.
+
+The website should be a single-page landing page for Basil Reyno, a Future-Ready Business Consultant, Sales Trainer, AI & Exponential Organizations Strategist, and Financial Advisor.
+
+The main purpose of the page is to convert social media followers, founders, leaders, sales professionals, entrepreneurs, and growth-minded individuals into discovery calls or qualified inquiries.
+
+PRIMARY CTA:
+Book a Discovery Call → link to [EXPONIFY_CALENDAR_LINK]
+
+SECONDARY CTA:
+Fill Out the Interest Form → link to [JOTFORM_LINK]
+
+Use the uploaded portrait image [BASIL_PORTRAIT_IMAGE] as the main hero image of Basil Reyno. Preserve the professional, confident, black outfit, arms-crossed feel. The face/photo should be used prominently in the hero and optionally again in the About or CTA section.
+
+Use the uploaded mockup/reference images [REFERENCE_MOCKUP_IMAGE_1], [REFERENCE_MOCKUP_IMAGE_2], and [REFERENCE_MOCKUP_IMAGE_3] as visual style references. Match the look and feel closely:
+- Clean Apple-style layout
+- Premium black and gold consultant aesthetic
+- Elegant typography
+- Lots of whitespace
+- Luxury but modern
+- Minimal but powerful
+- Black hero section
+- White/cream service sections
+- Gold accent lines, icons, and buttons
+- Smooth, polished, high-converting landing page design
+
+Do NOT make it neon, cyberpunk, overly flashy, childish, or Canva-looking. It should look like a premium consultant / executive strategist website.
+
+BRAND COLORS:
+Primary Black: #0B0B0B
+Deep Charcoal: #151515
+Luxury Gold: #C8A24A
+Bright Gold Accent: #D9B75F
+Soft Cream Background: #F8F6F0
+Warm Gray: #E8E3D8
+Text Dark: #111111
+Text Muted: #666666
+White: #FFFFFF
+
+TYPOGRAPHY:
+Use an elegant serif font for major headings, similar to Playfair Display, Cormorant Garamond, or a premium editorial serif.
+Use a clean sans-serif font for body text and UI, similar to Inter, Satoshi, Manrope, or Helvetica.
+The website should feel premium, readable, and clean.
+
+OVERALL PAGE STRUCTURE:
+1. Navigation Bar
+2. Hero Section
+3. Growth Path / Choose Your Path Section
+4. About Basil Section
+5. Credibility Metrics Section
+6. Core Services Section
+7. Testimonials / Social Proof Placeholder Section
+8. Featured / Trusted By Placeholder Section
+9. FAQ Section
+10. Final CTA Section
+11. Footer
+
+Make the website responsive for desktop, tablet, and mobile. Mobile should look elegant, not cramped. Cards should stack properly. Buttons should remain easy to tap.
+
+IMPORTANT:
+Do not invent real client names, real media features, or fake testimonials as factual claims. Use placeholder testimonials or label them clearly as placeholders. If testimonials are used, make them generic and editable.
+
+--------------------------------------------------
+SECTION 1: NAVIGATION BAR
+--------------------------------------------------
+
+Create a fixed or sticky premium navigation bar with a dark background.
+
+Left side:
+Gold monogram-style text logo:
+BR
+BASIL REYNO
+
+Navigation links:
+Home
+About
+Services
+FAQ
+Contact
+
+Right side button:
+Book a Discovery Call →
+
+Button should be gold outline or gold filled depending on contrast.
+
+On mobile:
+Use a clean hamburger menu.
+Keep the BR / Basil Reyno logo visible.
+Primary CTA should remain accessible.
+
+--------------------------------------------------
+SECTION 2: HERO SECTION
+--------------------------------------------------
+
+Hero background:
+Dark black / charcoal gradient with subtle gold glow and elegant curved gold line accents.
+The style should match the uploaded mockups.
+
+Layout:
+Desktop:
+Left side = copy and CTA
+Right side = Basil Reyno portrait
+
+Mobile:
+Portrait can appear above or below the headline, whichever looks more premium.
+Do not crop the face badly.
+
+Hero eyebrow text:
+HI, I’M BASIL REYNO
+
+Main headline:
+Build Your Income, Influence, and Impact in the Exponential Age.
+
+Style:
+Make the words “Impact” and “Exponential Age” gold.
+Use large elegant serif typography.
+Headline should feel bold, premium, and inspiring.
+
+Subheadline:
+I help founders, leaders, sales professionals, and growth-minded individuals grow through sales strategy, business consulting, AI systems, coaching, and financial protection planning.
+
+Trust labels row with small gold icons:
+Sales
+Strategy
+AI
+Business Growth
+Financial Protection
+
+Hero CTAs:
+Primary button:
+Book a Discovery Call →
+Link: [EXPONIFY_CALENDAR_LINK]
+
+Secondary button:
+Fill Out the Interest Form →
+Link: [JOTFORM_LINK]
+
+Quote block near the portrait:
+“The future belongs to those who build, adapt, and lead with purpose.”
+
+Signature text:
+Basil Reyno
+
+Hero should look like the reference image: premium black, gold details, portrait on the right, strong editorial headline.
+
+--------------------------------------------------
+SECTION 3: CHOOSE YOUR PATH
+--------------------------------------------------
+
+Background:
+Soft cream / white.
+
+Heading:
+What kind of growth are you looking for?
+
+Subheading:
+Choose the path that fits your goals. I’ll help you take it further.
+
+Create 5 premium cards with gold line icons:
+
+CARD 1:
+Title:
+Founders & Business Owners
+
+Description:
+Build a stronger business, clarify your offer, improve your sales system, and scale with confidence.
+
+CTA:
+Book Consulting Call →
+
+CARD 2:
+Title:
+Leaders & Organizations
+
+Description:
+Equip your team with better sales, stronger leadership, AI tools, and execution systems.
+
+CTA:
+Request Training or Consulting →
+
+CARD 3:
+Title:
+Sales Professionals
+
+Description:
+Improve your prospecting, confidence, closing, follow-up, and daily sales momentum.
+
+CTA:
+Explore Sales Coaching →
+
+CARD 4:
+Title:
+Content Followers
+
+Description:
+Turn inspiration into action with practical frameworks, guidance, and a clear next step.
+
+CTA:
+Book Discovery Call →
+
+CARD 5:
+Title:
+Financial Planning Conversations
+
+Description:
+Talk about protection, insurance, investments, and long-term financial direction.
+
+CTA:
+Start Financial Planning Discussion →
+
+All card CTAs should link either to the Jotform or discovery call. Use:
+Book Discovery Call buttons → [EXPONIFY_CALENDAR_LINK]
+Interest/application/request buttons → [JOTFORM_LINK]
+
+Card design:
+White or cream cards
+Thin gold border
+Rounded corners
+Subtle shadow
+Gold line icons
+Clean hover animation
+
+--------------------------------------------------
+SECTION 4: ABOUT BASIL
+--------------------------------------------------
+
+Use a split layout:
+Left side = copy
+Right side = photo card or quote card using Basil’s portrait
+
+Small eyebrow:
+ABOUT BASIL REYNO
+
+Main heading:
+Strategy. Systems. Sales. Impact.
+
+Body copy:
+Basil Reyno is a sales trainer, business consultant, AI strategist, and financial advisor helping founders, leaders, sales professionals, and growth-minded individuals grow in a fast-changing world.
+
+His work combines practical sales execution, business strategy, leadership development, AI-powered systems, and financial protection planning — helping clients build not just income, but direction, confidence, and long-term impact.
+
+Role list with gold icons:
+Sales Trainer — Equipping people and teams with the skills, mindset, and systems to sell with confidence.
+Business Consultant — Designing strategies, offers, and operations that drive growth and clarity.
+AI Strategist — Helping leaders integrate AI tools, workflows, and automation into daily execution.
+Financial Advisor — Guiding protection-focused conversations for income, family, and long-term planning.
+
+Right-side quote card:
+Use Basil’s photo and include:
+“The future belongs to those who build, adapt, and lead with purpose.”
+
+Below:
+Basil Reyno
+Future-Ready Business Consultant
+Sales Trainer
+AI Strategist
+Financial Advisor
+
+--------------------------------------------------
+SECTION 5: CREDIBILITY METRICS
+--------------------------------------------------
+
+Create a clean cream/white metrics strip with 4 columns.
+
+Use editable numbers, not exaggerated claims.
+
+Metric 1:
+10+
+Years of Experience
+In business development, sales, and leadership.
+
+Metric 2:
+Professionals Trained
+Sales teams, entrepreneurs, advisors, and leaders across industries.
+Use placeholder number:
+[ADD NUMBER]
+
+Metric 3:
+Businesses & Teams Empowered
+From startups to growing organizations.
+Use placeholder number:
+[ADD NUMBER]
+
+Metric 4:
+Industries Served
+Sales, finance, technology, education, real estate, travel, and more.
+Use placeholder number:
+[ADD NUMBER]
+
+Important:
+If numbers are placeholders, mark them in the code/content so they are easy to edit.
+
+Design:
+Large serif numbers
+Gold labels
+Thin vertical dividers
+Gold icons
+
+--------------------------------------------------
+SECTION 6: CORE SERVICES
+--------------------------------------------------
+
+Background:
+Soft cream / white.
+
+Eyebrow:
+CORE SERVICES
+
+Heading:
+How I Can Help You Grow
+
+Create 5 premium service cards.
+
+SERVICE 1:
+Title:
+Business Consulting
+
+Description:
+Strategic guidance for founders, entrepreneurs, and leaders who need clarity, better offers, stronger sales systems, and scalable business structure.
+
+Includes:
+Business strategy
+Offer design
+Sales system design
+Team structure
+CRM and workflow planning
+Growth roadmap
+
+CTA:
+Book a Discovery Call →
+
+SERVICE 2:
+Title:
+Sales Training
+
+Description:
+Practical training for sales teams, advisors, agencies, and organizations that want stronger performance, better follow-up, and more consistent results.
+
+Includes:
+Prospecting
+Approaching
+Presentations
+Follow-up
+Objection handling
+Referrals
+Sales mindset
+Team accountability
+
+CTA:
+Request Sales Training →
+
+SERVICE 3:
+Title:
+1-on-1 Coaching
+
+Description:
+Personalized guidance for individuals who want clarity, accountability, confidence, and direction in their career, leadership, sales, or business growth.
+
+Includes:
+Sales professionals
+New leaders
+Entrepreneurs
+Financial advisors
+Content creators
+Professionals in transition
+
+CTA:
+Apply for Coaching →
+
+SERVICE 4:
+Title:
+AI & Future-Ready Strategy
+
+Description:
+Guidance for leaders and teams who want to use AI to simplify work, automate workflows, improve productivity, and prepare their organization for the future.
+
+Includes:
+AI workflow design
+ChatGPT systems
+Sales and marketing automation
+Team productivity systems
+Future-ready organization strategy
+Exponential Organizations thinking
+
+CTA:
+Explore AI Strategy →
+
+SERVICE 5:
+Title:
+Insurance & Financial Protection Planning
+
+Description:
+A professional conversation for individuals and families who want to protect income, health, family, and long-term financial goals.
+
+Includes:
+Life insurance conversations
+Health protection
+Income protection
+Family protection planning
+Financial needs review
+Investment-linked insurance discussion, where suitable
+
+CTA:
+Start Financial Planning Discussion →
+
+Important:
+Do not make exaggerated investment claims.
+Do not promise guaranteed returns.
+Keep the wording professional and protection-focused.
+
+Design:
+Use 5 clean cards in desktop.
+On tablet, 2-column layout.
+On mobile, single-column layout.
+Gold icons, black titles, muted gray descriptions.
+Use subtle hover lift effect.
+
+--------------------------------------------------
+SECTION 7: TESTIMONIALS / SOCIAL PROOF
+--------------------------------------------------
+
+Create a section titled:
+What Clients & Partners Say
+
+Subtitle:
+Real Results. Real Impact.
+
+Use 3 testimonial cards, but make them editable placeholders.
+
+Card 1:
+“Basil helped us clarify our sales process, improve accountability, and lead with more confidence.”
+Name:
+Client Name
+Role:
+Sales Leader
+
+Card 2:
+“His strategy helped us see our business differently and identify the systems we needed to grow.”
+Name:
+Client Name
+Role:
+Founder
+
+Card 3:
+“The coaching gave me clarity, structure, and the confidence to take action.”
+Name:
+Client Name
+Role:
+Professional / Entrepreneur
+
+Add a visible note in code comments:
+Replace these placeholders with real testimonials before publishing.
+
+Design:
+Dark background
+Gold quote marks
+Rounded cards
+Subtle gold border
+Premium spacing
+
+--------------------------------------------------
+SECTION 8: FEATURED / TRUST STRIP
+--------------------------------------------------
+
+Create a simple trust strip.
+
+Heading:
+Trusted by founders, leaders, sales professionals, and growth-minded organizations.
+
+Optional label:
+AS SEEN IN / FEATURED IN
+
+But do not use real media logos unless Basil provides them.
+Use placeholder logo blocks only:
+Logo Placeholder
+Logo Placeholder
+Logo Placeholder
+
+Add code comments:
+Replace with real logos or remove this section before publishing if not applicable.
+
+--------------------------------------------------
+SECTION 9: FAQ SECTION
+--------------------------------------------------
+
+Background:
+Soft cream or white.
+
+Heading:
+Frequently Asked Questions
+
+Create accordion-style FAQs.
+
+FAQ 1:
+Question:
+Do I need to know exactly what service I need before booking?
+
+Answer:
+No. The discovery call is designed to help identify the best next step based on your goals, current situation, and the type of support you need.
+
+FAQ 2:
+Question:
+Do you work with individuals or only companies?
+
+Answer:
+Both. Basil works with founders, leaders, sales professionals, entrepreneurs, financial advisors, and organizations.
+
+FAQ 3:
+Question:
+Can I request sales training for my team?
+
+Answer:
+Yes. Sales training can be customized based on your team’s industry, current challenges, and goals.
+
+FAQ 4:
+Question:
+Can I talk to you about insurance or investments?
+
+Answer:
+Yes. You may request a financial planning discussion focused on protection, income security, family needs, and long-term goals.
+
+FAQ 5:
+Question:
+Do you offer AI consulting?
+
+Answer:
+Yes. Basil helps leaders and teams explore AI tools, workflows, automation, and future-ready business systems.
+
+FAQ 6:
+Question:
+What happens after I fill out the form?
+
+Answer:
+Your answers will be reviewed so the next conversation can be more focused, relevant, and useful.
+
+--------------------------------------------------
+SECTION 10: FINAL CTA
+--------------------------------------------------
+
+Dark black/gold CTA banner.
+
+Headline:
+Not sure where to start?
+Start with one clear conversation.
+
+Body:
+Whether you want to grow your business, improve your sales, lead your team better, use AI strategically, or plan your financial future, the next step begins with clarity.
+
+Buttons:
+Book a Discovery Call →
+Link: [EXPONIFY_CALENDAR_LINK]
+
+Fill Out the Interest Form →
+Link: [JOTFORM_LINK]
+
+Optional small line:
+Premium guidance. Practical strategy. Clear next steps.
+
+--------------------------------------------------
+SECTION 11: FOOTER
+--------------------------------------------------
+
+Dark footer.
+
+Left:
+BR
+BASIL REYNO
+
+Tagline:
+Strategy. Systems. Sales. Impact.
+
+Description:
+Helping leaders, founders, sales professionals, and growth-minded individuals build future-ready income, influence, and impact.
+
+Navigation:
+Home
+About
+Services
+FAQ
+Contact
+
+Connect:
+Facebook
+Instagram
+LinkedIn
+YouTube
+
+Contact:
+Email: [ADD EMAIL]
+Phone: [ADD PHONE]
+Location: Philippines
+
+Bottom:
+© 2026 Basil Reyno. All rights reserved.
+Privacy Policy
+Terms of Service
+
+--------------------------------------------------
+TECHNICAL REQUIREMENTS
+--------------------------------------------------
+
+Build this as a modern responsive landing page.
+
+Preferred stack if coding:
+React + Tailwind CSS
+Use Lucide React icons if available.
+Use Framer Motion for subtle animations if available.
+
+If using plain HTML/CSS/JS, still create a polished responsive version.
+
+Technical expectations:
+- Fully responsive
+- Fast loading
+- SEO-friendly
+- Clean semantic HTML
+- Reusable components
+- Smooth scroll navigation
+- Hover animations on cards and buttons
+- Sticky nav
+- Mobile menu
+- Accessible contrast
+- Proper button links
+- Open CTA links in same tab unless external behavior requires new tab
+- Add alt text for Basil’s portrait
+- Use object-fit and responsive image handling
+- Use elegant entrance animations, not too much motion
+
+Suggested animations:
+- Hero text fade-up
+- Cards fade-up stagger
+- Button hover lift
+- Gold line subtle glow
+- Smooth scroll on nav clicks
+
+SEO metadata:
+Title:
+Basil Reyno | Future-Ready Business Consultant
+
+Description:
+Build your income, influence, and impact in the exponential age. Work with Basil Reyno for sales training, business consulting, AI strategy, coaching, and financial protection planning.
+
+Keywords:
+Basil Reyno, business consultant Philippines, sales trainer Philippines, AI strategy consultant, sales coaching, financial advisor, Exponential Organizations, future-ready business
+
+Open Graph:
+Use Basil portrait as OG image if possible.
+OG title:
+Basil Reyno | Build Your Income, Influence, and Impact
+OG description:
+Sales, strategy, AI, coaching, and financial protection planning for future-ready leaders and growth-minded individuals.
+
+--------------------------------------------------
+DESIGN DETAILS TO MATCH REFERENCE
+--------------------------------------------------
+
+The visual design should closely match the uploaded mockups:
+- Black hero with large portrait on the right
+- Gold serif highlight words
+- Gold curved line accents behind the portrait
+- Clean top navigation
+- Premium service cards
+- White/cream mid sections
+- Dark testimonial and final CTA sections
+- Footer in black
+- BR logo text treatment
+- Thin gold dividers
+- Editorial/luxury consultant feel
+
+Do not make the site look like a generic SaaS landing page.
+Do not make it too colorful.
+Do not use stock-photo people except for placeholder testimonial avatars if needed.
+Do not overcrowd the page.
+Do not overuse gradients.
+Keep it sharp, premium, and conversion-focused.
+
+--------------------------------------------------
+BUTTON LINK LOGIC
+--------------------------------------------------
+
+All “Book a Discovery Call” buttons should link to:
+[EXPONIFY_CALENDAR_LINK]
+
+All “Fill Out the Interest Form”, “Apply”, “Request”, or “Start Discussion” buttons should link to:
+[JOTFORM_LINK]
+
+--------------------------------------------------
+FINAL QUALITY STANDARD
+--------------------------------------------------
+
+The final output should look like a premium personal brand website for a high-trust consultant, strategist, trainer, and advisor.
+
+It should feel:
+- Premium
+- Clear
+- Modern
+- Executive
+- Warm
+- Future-ready
+- Filipino but globally professional
+- Conversion-focused
+
+Build the page completely.
+Use realistic spacing, polished UI, responsive behavior, and production-quality code.
