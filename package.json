@@ -18,7 +18,7 @@
   "devDependencies": {
     "prettier": "^3.8.1",
     "typescript": "~5.9.2",
-  "@types/node": "^22.x",
+    "@types/node": "^22.x"
   },
   "dependencies": {
     "@esbuild/win32-x64": "^0.27.3",
