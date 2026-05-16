@@ -19,7 +19,7 @@ catalogs:
       specifier: ^4.1.14
       version: 4.3.0
     '@tanstack/react-query':
-      specifier: ^5.90.21
+      specifier: ^5.100.10
       version: 5.100.10
     '@types/node':
       specifier: ^25.8.0
@@ -411,6 +411,10 @@ importers:
         version: 3.25.76
 
   artifacts/mockup-sandbox:
+    dependencies:
+      '@tanstack/react-query':
+        specifier: 'catalog:'
+        version: 5.100.10(react@19.1.0)
     devDependencies:
       '@hookform/resolvers':
         specifier: ^3.10.0

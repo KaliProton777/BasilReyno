@@ -3,6 +3,7 @@
   "include": ["src/**/*", "mockupPreviewPlugin.ts", "vite.config.ts"],
   "exclude": ["node_modules", "build", "dist", "**/*.test.ts"],
   "compilerOptions": {
+    "types": ["node"],
     "noEmit": true,
     "module": "esnext",
     "moduleResolution": "bundler",
