@@ -1,3 +1,6 @@
+
+raiza@RaizaHabana MINGW64 ~/OneDrive/Documents/Other/BasilReyno/artifacts/basil-reyno (main)
+$ cat vite.config.ts
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
