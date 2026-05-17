@@ -1,5 +1,11 @@
-import { pgTable, serial, varchar, date, time, text, timestamp } from "drizzle-orm/pg-core";
-import { createInsertSchema } from "drizzle-zod";
+import {
+  pgTable,
+  serial,
+  text,
+  date,
+  time,
+  timestamp,
+} from "drizzle-orm/pg-core";
 
 export const expoAppointments = pgTable("expo_appointments", {
   id: serial("id").primaryKey(),
@@ -11,9 +17,12 @@ export const expoAppointments = pgTable("expo_appointments", {
   phone: text("phone"),
 
   preferred_date: date("preferred_date").notNull(),
+
   preferred_time: time("preferred_time").notNull(),
 
   message: text("message"),
+
+  // IMPORTANT
   recaptcha_token: text("recaptcha_token"),
 
   status: text("status").default("pending"),
@@ -21,7 +30,3 @@ export const expoAppointments = pgTable("expo_appointments", {
   created_at: timestamp("created_at").defaultNow(),
   updated_at: timestamp("updated_at").defaultNow(),
 });
-
-export const insertExpoAppointmentSchema = createInsertSchema(expoAppointments);
-export type InsertExpoAppointment = typeof expoAppointments.$inferInsert;
-export type ExpoAppointment = typeof expoAppointments.$inferSelect;
